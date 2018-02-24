@@ -2,3 +2,4 @@
 Learning Git remotes with gmaster
 
 Just a change
+From remote.
